@@ -31,4 +31,6 @@ var chocolateBars = [
   'skittles'
 ];
 
-
+function addElementToBeginningOfArray(e, arrayName) = {
+  [e, ... arrayName]
+} 
