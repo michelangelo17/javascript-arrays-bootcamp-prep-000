@@ -5,5 +5,12 @@ var ingredient4 = "butter"
 var ingredient5 = "tomato"
 var ingredient6 = "garlic"
 
-var
-grilled
+var grilledCheeseIngredients = [
+  'bread'
+  'mild cheese'
+  'sharp cheese'
+  'butter'
+  'tomato'
+  'garlic'
+]
+
