@@ -22,4 +22,13 @@ var tomatoSauceIngredients = [
   'oregano'
 ];
 
-/* 
+// This is likely where I was supposed to start.
+
+var chocolateBars = [
+  'snickers',
+  'hundred grand',
+  'kitkat',
+  'skittles'
+];
+
+
